@@ -1,0 +1,14 @@
+<  =, operator, 3  > 
+<  =, operator, 5  > 
+<  <=, operator, 5  > 
+<  =, operator, 7  > 
+<  <=, operator, 7  > 
+<  -, operator, 7  > 
+<  ++, operator, 7  > 
+<  %, operator, 9  > 
+<  ==, operator, 9  > 
+<  ==, operator, 12  > 
+<  ++, operator, 15  > 
+<  ++, operator, 17  > 
+<  &, operator, 25  > 
+<  >=, operator, 27  > 

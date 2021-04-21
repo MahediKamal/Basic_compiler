@@ -1,0 +1,8 @@
+<  prime, function, 2  > 
+<  printf, function, 14  > 
+<  main, function, 20  > 
+<  printf, function, 24  > 
+<  scanf, function, 25  > 
+<  printf, function, 29  > 
+<  printf, function, 30  > 
+<  prime, function, 32  > 
